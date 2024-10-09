@@ -6,7 +6,7 @@ Data Scientist and AI developer
 
 I am a former English teacher turned developer. I only recently fully switched careers after completing my MSc in Data Science Management at Rome Business School. I am currently improving my skills to become more proficient in AI (neural network) development
 
-* 🌍  I'm based in Vladivostok, Russia
+* 🌍  I'm based in Saint Petersburg, Russia
 * ✉️  You can contact me at [seun4united@gmail.com](mailto:seun4united@gmail.com)
 
 ### Skills
