@@ -23,3 +23,4 @@ I am a former English teacher turned developer. I only recently fully switched c
 
 ### Stats
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naecrae77)](https://github.com/anuraghazra/github-readme-stats)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naecrae77&show_icons=true&theme=dark)
