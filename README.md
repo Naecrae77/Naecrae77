@@ -3,15 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist and AI developer
 -------------------------------
-
+<header>
+ <img align="centre" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjamVwODZkYnd1cHl5ZzJ4bnBmc3RxYXhlc3Z1aG4xaWxiN3cxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<header>
+ 
 I am a former English teacher turned developer. I only recently fully switched careers after completing my MSc in Data Science Management at Rome Business School. I am currently improving my skills to become more proficient in AI (neural network) development
 
 * 🌍  I'm based in Saint Petersburg, Russia
 * ✉️  You can contact me at [seun4united@gmail.com](mailto:seun4united@gmail.com)
-### Header
- <header>
- <img align="centre" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjamVwODZkYnd1cHl5ZzJ4bnBmc3RxYXhlc3Z1aG4xaWxiN3cxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
-<header>
+
  
 ### Skills
 
