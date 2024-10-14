@@ -32,6 +32,6 @@ I am a former English teacher turned developer. I only recently fully switched c
 ### Stats
 
 <a href="https://github.com/Naecrae77/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Naecrae77&show_icons=true&theme=radical" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naecrae77&layout=donut&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Naecrae77&theme=radical&show_icons=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naecrae77&theme=radical&layout=donut" />
 </a>
